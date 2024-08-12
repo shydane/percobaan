@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ihsan {
+    color: brown;
+    font-size: 2cm;
+    text-shadow: 4px 4px black;
+    text-decoration: underline;
+}
+.butt {
+    font-size: 1cm;
+}
+.bungkus {
+    display: flex;
+}

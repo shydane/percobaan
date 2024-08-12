@@ -1,0 +1,78 @@
+* ,
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-atas {
+    background-color: rgb(184, 176, 176);
+}
+
+.cobasaja {
+    background-color: rgb(61, 52, 52);
+    color: white;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-atas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.GTR {
+    /* background-color: white; */
+    text-indent: 20px;
+}
+
+.gambar-content {
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.letak-content {
+    display: flex;
+    justify-content: center;
+}
+
+.warna-content {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    /* margin: 20px;  */   /* jarak luar teks */
+    padding: 20px;         /*  jarak dalem teks */
+    font-size: 20px;
+    background-color:rgb(61, 52, 52);
+}
+
+.ukuran-gambar {
+    width: 40vh;
+    height: 65vh;
+    padding: 5px;
+}
+
+.footer-b {
+    background-color: rgb(61, 52, 52);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.footer-a {
+    display: flex;
+    align-items: center; /* atas bawah */
+    justify-content: center; /* kanan kiri */
+    color: white;
+    margin: 10px;
+}
